@@ -1,8 +1,6 @@
 # VoiceEnquiry
 ![alt text](https://robohash.org/1?200x200)
 
-Project done as part of CSE302 DBMS Course
-
 Stack Used:
 * REACT JS + Node JS + MySQL + Express JS
 
@@ -16,5 +14,3 @@ To run the app,
 In server.js file, edit the connection details of your host Database and execute commands in Database.txt. Now you are ready to go.
 
 Type node server.js to run the server in default port: 3000
-
-Happy Hacking!
